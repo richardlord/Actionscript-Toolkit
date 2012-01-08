@@ -1,0 +1,19 @@
+h1. A random collection of useful code
+
+This project contains various useful code from "my blog":http://www.richardlord.net/blog
+
+h2. Included
+
+* Key Poll - for checking if any key is down or up at a specific time.
+* Finite State Machine - A simple finite state machine for Actionscript 3 games.
+* Weak Ref - creates a weak reference to an object.
+* Object Pool - a simple object pool for any and all object types.
+* Singleton - a simple factory to create and maintain a single instance of any class or classes.
+* Function Utils - utilities to modify a function signature.
+* Math Utils - utilities for changing between degrees and radians and for getting random numbers.
+* Construct - a function to call the constructor of a class (function.apply can't be used to call the constructor).
+* Hit Test - performs collision checking between two display objects by drawing them into a bitmap and checking for an overlap.
+
+h2. License
+
+All code is covered by the MIT open-source license. The license text is included at the top of each source code file.
