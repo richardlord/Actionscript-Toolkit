@@ -1,18 +1,18 @@
 h1. A random collection of useful code
 
-This project contains various useful code from "my blog":http://www.richardlord.net/blog
+This project contains various useful Actionscript code from "my blog":http://www.richardlord.net/blog
 
 h2. Included
 
-* Key Poll - for checking if any key is down or up at a specific time.
-* Finite State Machine - A simple finite state machine for Actionscript 3 games.
-* Weak Ref - creates a weak reference to an object.
-* Object Pool - a simple object pool for any and all object types.
-* Singleton - a simple factory to create and maintain a single instance of any class or classes.
-* Function Utils - utilities to modify a function signature.
-* Math Utils - utilities for changing between degrees and radians and for getting random numbers.
-* Construct - a function to call the constructor of a class (function.apply can't be used to call the constructor).
-* Hit Test - performs collision checking between two display objects by drawing them into a bitmap and checking for an overlap.
+* "Key Poll":https://github.com/richardlord/Actionscript-Toolkit/blob/master/src/net/richardlord/input/KeyPoll.as - for checking if any key is down or up at a specific time.
+* "Finite State Machine":https://github.com/richardlord/Actionscript-Toolkit/tree/master/src/net/richardlord/fsm - A simple finite state machine for Actionscript 3 games.
+* "Weak Ref":https://github.com/richardlord/Actionscript-Toolkit/blob/master/src/net/richardlord/utils/WeakRef.as - creates a weak reference to an object.
+* "Object Pool":https://github.com/richardlord/Actionscript-Toolkit/blob/master/src/net/richardlord/utils/ObjectPool.as - a simple object pool for any and all object types.
+* "Singleton":https://github.com/richardlord/Actionscript-Toolkit/blob/master/src/net/richardlord/utils/singleton.as - a simple factory to create and maintain a single instance of any class or classes.
+* "Function Utils":https://github.com/richardlord/Actionscript-Toolkit/blob/master/src/net/richardlord/utils/FunctionUtils.as - utilities to modify a function signature.
+* "Math Utils":https://github.com/richardlord/Actionscript-Toolkit/blob/master/src/net/richardlord/utils/MathUtils.as - utilities for changing between degrees and radians and for getting random numbers.
+* "Construct":https://github.com/richardlord/Actionscript-Toolkit/blob/master/src/net/richardlord/utils/construct.as - a function to call the constructor of a class (function.apply can't be used to call the constructor).
+* "Hit Test":https://github.com/richardlord/Actionscript-Toolkit/blob/master/src/net/richardlord/collisions/HitTest.as - performs collision checking between two display objects by drawing them into a bitmap and checking for an overlap.
 
 h2. License
 
